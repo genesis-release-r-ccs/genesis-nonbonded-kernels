@@ -1,0 +1,13 @@
+.DS_Store
+*.o
+*~
+*.swp
+*.a
+*.bak*
+*.mod
+*.f90
+*.lst
+*/*.lst
+*/*/*.lst
+mkl*
+kernel
