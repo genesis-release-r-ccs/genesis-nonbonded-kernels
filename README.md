@@ -14,7 +14,7 @@ The modules for reading inputs are given from the kernel codes from Priority Iss
 
 https://github.com/RIKEN-RCCS/fs2020-tapp-kernels
 
-License : GNU Lessar General Public Licese version 3 or later.
+License : GNU Lessar General Public Licese version 3
 
 ## Kernel codes
 
@@ -35,3 +35,11 @@ The data was dumped from the 0-th MPI process out of a total of 16 processes.
 
  - data/data_kernel_generic.bz2 : input for Generic
  - data/data_kernel_Oct.bz2 : input for Intel/Intel_mod
+
+## Citation Information
+If you would like to cite the kernel, please cite this GitHub website and the GENESIS 2.1 paper.
+
+
+- genesis-nonbonded-kernels https://github.com/genesis-release-r-ccs/genesis-nonbonded-kernels
+
+- Jaewoon Jung, Kiyoshi Yagi, Cheng Tan, Hiraku Oshima, Takaharu Mori, Isseki Yu, Yasuhiro Matsunaga, Chigusa Kobayashi, Shingo Ito, Diego Ugarte La Torre, Yuji Sugita, J. Phys. Chem. B 128, 25, 6028-6048 (2024). https://pubs.acs.org/doi/10.1021/acs.jpcb.4c02096
