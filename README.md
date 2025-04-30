@@ -18,7 +18,7 @@ License : GNU Lessar General Public Licese version 3
 
 ## Kernel codes
 
-- Generic: kernel givn from 'Generic' kernel of GENESIS. https://github.com/sugitalab/genesis-mkl-shared/blob/v2.1.0/src/spdyn/sp_energy_nonbond_intel.fpp
+- Generic: kernel givn from 'Generic' kernel of GENESIS. https://github.com/sugitalab/genesis-mkl-shared/blob/v2.1.0/src/spdyn/sp_energy_nonbond_generic.fpp
 
 - Intel: kernel givn from 'Intel' kernel of GENESIS. https://github.com/sugitalab/genesis-mkl-shared/blob/v2.1.0/src/spdyn/sp_energy_nonbond_intel.fpp
 - Intel_mod1: Modified 'Intel' kernel.
