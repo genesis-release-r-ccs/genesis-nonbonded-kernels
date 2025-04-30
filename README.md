@@ -6,7 +6,7 @@ This is kernel program of real-part nonbonding interaction forces. The program w
 
 The code is given from GENESIS v2.1.0. 
 
-The original GENESIS is provided in the websit;
+The original GENESIS is provided in the website;
 
 https://github.com/genesis-release-r-ccs/genesis
 
