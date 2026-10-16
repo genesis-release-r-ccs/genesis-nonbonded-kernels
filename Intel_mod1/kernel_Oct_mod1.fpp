@@ -148,9 +148,6 @@ subroutine kernel_inside(coord_pbc, force, virial,                   &
 !    real(wp)                  :: inv_MaxAtom
     integer,   save           :: init_flg = 0
 
-    force=0.0
-    coord_pbc=0.0
-    virial=0.0
 
 #ifdef OMP_PARALLEL
     !$omp parallel default(shared)                                         &
